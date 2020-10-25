@@ -1,0 +1,4 @@
+link do strony internetowej : zefiro.pl
+login i haslo do aplikacji i strony internetowej
+login : ep1234
+haslo : haslo1
