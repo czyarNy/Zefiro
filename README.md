@@ -1,2 +1,0 @@
-# Zefiro
-repozytorium Zefiro
